@@ -1,0 +1,8 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login Page,750,2637,1946,6361,7631,11225,109,14627,0.000%,3.71149,128.94,1.01
+Login Credentials,750,2900,2026,6137,8392,15136,137,39610,0.000%,3.71217,138.85,1.54
+Navigate UI,750,285,216,574,776,1310,107,1769,0.000%,3.71407,67.87,1.61
+Event List Internl API - All (100 per page),750,4084,3254,7916,10705,16351,559,26594,0.000%,3.70595,670.69,1.65
+Event List Internl API - Ended in last 90 days (100 per page),750,4280,3471,8025,10308,17989,573,33982,0.000%,3.70786,172.96,1.65
+Event List Internl API - Ended in last 90 days / Live / PST / Owner / Registered  (100 per page),750,3628,3018,7430,9115,15997,157,30208,0.000%,3.71760,6.24,1.87
+TOTAL,4500,2969,2059,6861,8618,14627,107,39610,0.000%,22.09587,1177.40,9.27
