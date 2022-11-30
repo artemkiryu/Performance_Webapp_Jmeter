@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login Page,250,114,101,148,198,297,80,534,0.000%,15.52891,179.83,2.02
+Login Credentials,250,414,378,555,718,908,242,1083,0.000%,15.75994,596.04,4.82
+Locations Internal APIs,250,291,247,477,557,747,144,886,0.000%,15.92864,55.98,6.16
+TOTAL,750,273,249,477,556,833,80,1083,0.000%,45.34188,799.76,12.43
